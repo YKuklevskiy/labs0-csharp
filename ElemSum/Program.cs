@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 // Напишите программу, находящую и выводящую сумму всех элементов строки, максимальный элемент строки и его индекс.
+
 namespace ElemSum
 {
     class Program

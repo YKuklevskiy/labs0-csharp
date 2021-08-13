@@ -6,3 +6,5 @@ ElemSum/*
 !ElemSum/*.cs
 MinSum/*
 !MinSum/*.cs
+TextSorting/*
+!TextSorting/*.cs
