@@ -8,3 +8,5 @@ MinSum/*
 !MinSum/*.cs
 TextSorting/*
 !TextSorting/*.cs
+TwoClasses/*
+!TwoClasses/*.cs
