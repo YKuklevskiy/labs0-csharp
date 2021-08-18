@@ -10,3 +10,6 @@ TextSorting/*
 !TextSorting/*.cs
 TwoClasses/*
 !TwoClasses/*.cs
+FiveSubClasses/*
+!FiveSubClasses/*.cs
+!FiveSubClasses/Classes/
