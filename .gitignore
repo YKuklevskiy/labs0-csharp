@@ -13,3 +13,6 @@ TwoClasses/*
 FiveSubClasses/*
 !FiveSubClasses/*.cs
 !FiveSubClasses/Classes/
+AbstractClasses/*
+!AbstractClasses/*.cs
+!AbstractClasses/Classes/
